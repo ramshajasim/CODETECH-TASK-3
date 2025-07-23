@@ -5,10 +5,21 @@ name : Ramsha jasim
 
 
 company : CODETECH IT SOLUTIONS 
+
+
 id : CTO4DH1922 
-domain : AI 
-duration : july to august 2025 
+
+
+domain : AI
+
+
+duration : july to august 2025
+
+
 mentor : neela santhosh kumar
+
+
+
 OVERVIEW OF THE PROJECT : Neural Style Transfer
 
 
